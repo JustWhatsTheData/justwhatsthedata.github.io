@@ -19,7 +19,7 @@ body {
 }
 
 nav {
-    background-color: #3399FF;
+    background-color: #db6ae6;
     color: black;
     direction: ltr;
     font-weight: normal;
@@ -77,7 +77,7 @@ nav a:hover, .language-switch:hover, .current {
 
 header {
     background-color: #293840;
-    border-bottom: 5px solid #3399FF;
+    border-bottom: 5px solid #db6ae6;
     color: #E8E8E8;
     margin-top: 47px;
     padding: 40px 0;
@@ -97,7 +97,7 @@ header h1 {
 }
 
 header h1 span {
-    color: #3399FF;
+    color: #db6ae6;
 }
 
 .tagline {
@@ -107,7 +107,7 @@ header h1 span {
 }
 
 .button {
-    background: #3399FF;
+    background: #db6ae6;
     border-radius: 5px;
     color: white;
     display: inline-block;
@@ -129,7 +129,7 @@ header h1 span {
 }
 
 .search {
-    background-color: #3399FF;
+    background-color: #db6ae6;
     display: none;
     padding: 10px 0;
 }
@@ -205,11 +205,11 @@ button:hover {
 }
 
 .reset {
-    color: #3399FF;
+    color: #db6ae6;
 }
 
 main {
-    border-bottom: 4px solid #3399FF;
+    border-bottom: 4px solid #db6ae6;
 }
 
 .sites {
@@ -223,7 +223,7 @@ main {
 }
 
 .sites a {
-    color: #3399FF;
+    color: #db6ae6;
     text-decoration: none;
 }
 
@@ -377,7 +377,7 @@ main {
 }
 
 .info-container a:hover {
-    color: #3399FF;
+    color: #db6ae6;
 }
 
 .info-container h2 {
@@ -450,7 +450,7 @@ main {
 }
 
 .banner-block a:hover {
-    color: #3399FF;
+    color: #db6ae6;
 }
 
 .banner-block ul {

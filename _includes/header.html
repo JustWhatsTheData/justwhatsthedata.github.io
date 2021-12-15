@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>{{ site.data.trans.[page.lang].title }}</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/icons/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/icons/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/icons/apple-touch-icon-144x144-precomposed.png">
+
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icons/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/assets/css/libs/jquery.dropdown.css" />
+
+    <script src="{{ site.baseurl }}/assets/js/libs/jquery.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/libs/jquery.dropdown.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+	<!-- Cloudflare Web Analytics -->
+	<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8ddaf91aa1b24bda9227cf9821cdc443"}'></script>
+	<!-- End Cloudflare Web Analytics -->
+</head>
+{% if page.lang == 'ar' or page.lang == 'fa' %}
+    {% assign rtl = true %}
+{% else %}
+    {% assign rtl = false %}
+{% endif %}
+<body lang="{{ page.lang }}"{% if rtl %} dir="rtl"{% endif %}>
+
+<nav>
+    <!-- begin language switcher -->
+    <span class="language-switch" href="#" data-dropdown="#language-dropdown" id="{{ page.lang }}">{{ site.data.trans[page.lang].name }}</span>
+    <!-- end language switcher -->
+    <a href="#about" class="info">{{ site.data.trans.[page.lang].about }}</a>
+</nav>
+
+<header>
+    <h1>Just<span>Whats</span>The<span>Data</span></h1>
+    <p class="tagline">{{ site.data.trans.[page.lang].tagline }}</p>
+
+    <p>
+<!--         <a href="#extension" class="button banner">{{ site.data.trans[page.lang].extension }}</a> -->
+        {% assign sl = page.lang | split: "-" %}   
+        <a class="button jdm" href="https://justdeleteme.xyz{%if page.lang != 'en-GB'%}/{{sl[0]}}{% endif %} "> {{site.data.trans[page.lang].link_jdm }}</a>
+        <a class="button" href="https://github.com/justgetmydata/jgmd">{{site.data.trans[page.lang].contribute}}</a>
+        <a class="button" href="https://crowdin.com/project/jgmd">{{site.data.trans[page.lang].translate}}</a>
+        <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' }}+https%3A%2F%2Fjustgetmydata.com">{{ site.data.trans.[page.lang].twitter }}</a>
+    </p>
+</header>

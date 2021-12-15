@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+# Run jekyll
+./script/run_jekyll.sh
+
+# Validate JSON
+./script/validate_json.rb
+./script/ping_websites.rb
+
+# Check if files are properly formatted
+./script/check_files_formatting.sh
