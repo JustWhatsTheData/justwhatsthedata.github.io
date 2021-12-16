@@ -230,7 +230,8 @@
 {
     "name": "Zoom",
     "url": "https://explore.zoom.us/es/privacy/",
-    "difficulty": "medium"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info4", "info6", "info11", "info12", "info13", "info16", "info17", "info18"]
 },
 {
     "name": "Spotify",
