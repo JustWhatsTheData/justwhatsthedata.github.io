@@ -3,30 +3,22 @@
     "name": "Google",
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
-<<<<<<< HEAD
-    "difficulty": "hard",
-    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
-=======
     "difficulty": "medium",
-    "gathered_data": ["info1", "info3"]
->>>>>>> origin
+    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
 },
     {
     "name": "Amazon",
     "meta": "popular",
     "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
-<<<<<<< HEAD
-    "difficulty": "easy",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info13", "info14", "info16", "info17"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
     {
     "name": "Reddit",
     "meta": "popular",
     "url": "https://www.redditinc.com/policies/privacy-policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info10", "info11", "info12", "info13", "info20", "info23"]
 },
     {
     "name": "Telegram",
@@ -129,12 +121,8 @@
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
-<<<<<<< HEAD
-    "difficulty": "hard",
+    "difficulty": "easy",
     "gathered_data": ["info1", "info5", "info6"]
-=======
-    "difficulty": "easy"
->>>>>>> baf64a19cac65116de2ed4a6f97953f28d75b783
 },
 {
     "name": "Twitter",
@@ -216,7 +204,8 @@
 {
     "name": "Discord",
     "url": "https://discord.com/privacy",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9", "info10", "info12", "info13", "info15", "info16", "info17", "info18", "info19", "info21"]
 },
 {
     "name": "GOG",
