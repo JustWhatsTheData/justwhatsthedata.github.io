@@ -37,16 +37,14 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.short }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] %}
+					{% if entry.gathered_data %}
                     <div class="tooltip-content">
 					<ul>
-                        {% if entry.datos_recogidos_en%}
-							{% for priv in entry.datos_recogidos_en %}
-								<li>{{ site.data.trans[page.lang][priv] }}</li>
-							{% endfor %}
-                        {% else %}
-                            {{ entry.notes }}
-                        {% endif %}
+
+						{% for priv in entry.gathered_data %}
+							<li>{{ site.data.trans[page.lang][priv] }}</li>
+						{% endfor %}
+                        
 					</ul>
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">

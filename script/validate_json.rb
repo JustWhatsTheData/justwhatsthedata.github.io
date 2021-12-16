@@ -21,7 +21,7 @@ module ExitCodes
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
-SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "datos_recogidos_en"]
+SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "gathered_data"]
 SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits", "footerlicense",
