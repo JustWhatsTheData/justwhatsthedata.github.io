@@ -28,7 +28,8 @@
     {
     "name": "Aliexpress",
     "url": "https://servicehall.aliexpress.com/knowledgeDetail?hcAppId=1249&hcFromCode=6R84Ps3TR&hcSessionId=26-1249-9ca4ba81-6399-44b7-ba87-887625189916&spm=service_hall.24213053.category.569&knowledgeId=569&categoryId=21039549",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info14"]
 },
     {
     "name": "Snapchat",
@@ -63,17 +64,20 @@
     {
     "name": "Steam",
     "url": "https://store.steampowered.com/privacy_agreement/?snr=1_44_44_",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info5", "info7", "info9", "info12", "info13"]
 },
     {
     "name": "PcComponentes",
     "url": "https://www.pccomponentes.com/privacidad",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info8", "info9"]
 },
     {
     "name": "Netflix",
     "url": "https://help.netflix.com/legal/privacy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info5", "info7", "info10", "info14", "info16", "info19", "info20", "info21", "info22"]
 },
     {
     "name": "GitHub",
@@ -86,27 +90,32 @@
     "name": "WhatsApp",
     "meta": "popular",
     "url": "https://www.whatsapp.com/privacy",
-    "difficulty": "easy"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info5", "info8", "info10", "info11", "info12", "info13", "info15", "info16", "info17", "info18"]
 },
     {
     "name": "Instagram",
     "url": "https://help.instagram.com/519522125107875",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info15", "info16", "info17", "info19", "info21", "info22"]
 },
     {
     "name": "Linkedin",
     "url": "https://es.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18"]
 },
     {
     "name": "Yahoo!",
     "url": "https://legal.yahoo.com/ie/es/yahoo/privacy/index.html",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9", "info10", "info11", "info13", "info15", "info16", "info17", "info20"]
 },
     {
     "name": "Microsoft",
     "url": "https://privacy.microsoft.com/es-es/privacystatement",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info7", "info11", "info16", "info19", "info20"]
 },
 {
     "name": "MSI",
@@ -117,7 +126,8 @@
 {
     "name": "GearBeast",
     "url": "https://es.gearbest.com/about/privacy-policy.html",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7"]
 },
 {
     "name": "Yoigo",
@@ -140,7 +150,8 @@
 {
     "name": "eBay",
     "url": "https://www.ebay.es/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7", "info8", "info11", "info14", "info15"]
 },
 {
     "name": "Tinder",
@@ -188,22 +199,26 @@
 {
     "name": "ING",
     "url": "https://www.ing.es/privacidad-ing",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19"]
 },
 {
     "name": "BBVA",
     "url": "https://protecciondedatos.bbva.es/",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info10", "info14"]
 },
 {
     "name": "Booking",
     "url": "https://www.booking.com/content/privacy.es.html?aid=376371;label=es-JCB2UqznXtCO_RDP_nj5CAS267778198072%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9061040%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ye8F2ouj63ytkBtrYs5TAfs;sid=33f2ed9ed5b8bf21fe3dc7c3b97bb678",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info12", "info13"]
 },
 {
     "name": "Coinbase",
     "url": "https://www.coinbase.com/legal/privacy",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info15", "info16", "info19", "info20", "info21"]
 },
 {
     "name": "Discord",
@@ -213,12 +228,14 @@
 {
     "name": "GOG",
     "url": "https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy?_ga=2.63717807.1620445900.1639679936-2031114438.1639679934&product=gog",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7", "info10", "info12"]
 },
 {
     "name": "Adobe",
     "url": "https://www.adobe.com/es/privacy.html",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9"]
 },
 {
     "name": "Twitch",
@@ -228,12 +245,14 @@
 {
     "name": "Spacehey",
     "url": "https://spacehey.com/privacy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info8", "info10", "info13"]
 },
 {
     "name": "Badoo",
     "url": "https://badoo.com/es/privacy/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18", "info19"]
 },
 {
     "name": "Zoom",
@@ -250,7 +269,8 @@
 {
     "name": "Tiktok",
     "url": "https://www.tiktok.com/legal/privacy-policy-eea?lang=es",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info14", "info15", "info18"]
 },
 {
     "name": "Mozilla",
@@ -260,12 +280,14 @@
 {
     "name": "Mailfence",                                                                                                
     "url": "https://mailfence.com/es/politica-de-privacidad.jsp",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info10", "info12"]
 },
 {
     "name": "Craigslist",
     "url": "https://www.craigslist.org/about/privacy.policy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info11", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13"]
 },
 {
     "name": "ZombieLink",
@@ -283,5 +305,11 @@
     "url": "https://www.binance.com/en/privacy",
     "difficulty": "easy",
     "gathered_data": ["info1", "info4", "info7", "info8", "info15", "info22"]
+},
+{
+    "name": "Pinterest",
+    "url": "https://policy.pinterest.com/es/privacy-policy",
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info10", "info11", "info12", "info13", "info14", "info15", "info19", "info21", "info22"]
 }
 ]
