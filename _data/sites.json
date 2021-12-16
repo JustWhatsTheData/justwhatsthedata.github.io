@@ -118,7 +118,8 @@
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info5", "info6"]
 },
 {
     "name": "Twitter",
