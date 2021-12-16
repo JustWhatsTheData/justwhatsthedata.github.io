@@ -32,7 +32,8 @@
     "name": "Snapchat",
     "meta": "popular",
     "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info8", "info11", "info12", "info13", "info15", "info17", "info18", "info21", "info22"]
 },
     {
     "name": "1688",
@@ -142,7 +143,8 @@
     "name": "Tinder",
     "meta": "popular",
     "url": "https://policies.tinder.com/privacy/intl/es-es",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info10", "info12", "info13", "info14", "info15", "info16", "info17", "info18"]
 },
 {
     "name": "Wikipedia",
@@ -157,7 +159,8 @@
 {
     "name": "Board Game Geek",
     "url": "https://boardgamegeek.com/privacy",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info13", "info14", "info17", "info22"]
 },
 {
     "name": "PornHub",
@@ -177,7 +180,7 @@
     "url": "https://www.apple.com/es/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
     "difficulty": "easy",
-    "gathered_data": [""]
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info21", "info22"]
 },
 {
     "name": "ING",
@@ -238,7 +241,8 @@
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/es/legal/privacy-policy/",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info13", "info14", "info15", "info16", "info17", "info22"]
 },
 {
     "name": "Tiktok",
