@@ -79,53 +79,53 @@
     {
     "name": "WhatsApp",
     "meta": "popular",
-    "url": "https://www.whatsapp.com/",
+    "url": "https://www.whatsapp.com/privacy",
     "difficulty": "easy"
 },
     {
     "name": "Instagram",
-    "url": "https://www.instagram.com/download/request/",
+    "url": "https://help.instagram.com/519522125107875",
     "difficulty": "medium"
 },
     {
     "name": "Linkedin",
-    "url": "https://www.linkedin.com/",
+    "url": "https://es.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy",
     "difficulty": "easy"
 },
     {
     "name": "Yahoo!",
-    "url": "https://es.yahoo.com/",
+    "url": "https://legal.yahoo.com/ie/es/yahoo/privacy/index.html",
     "difficulty": "easy"
 },
     {
     "name": "Microsoft",
-    "url": "https://microsoft.com/",
+    "url": "https://privacy.microsoft.com/es-es/privacystatement",
     "difficulty": "hard"
 },
 {
     "name": "MSI",
-    "url": "https://es.msi.com/",
+    "url": "https://es.msi.com/page/privacy-policy",
     "difficulty": "hard"
 },
 {
     "name": "GearBeast",
-    "url": "https://www.gearbest.com/",
+    "url": "https://es.gearbest.com/about/privacy-policy.html",
     "difficulty": "hard"
 },
 {
     "name": "Yoigo",
-    "url": "https://www.yoigo.com/",
+    "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
     "difficulty": "hard"
 },
 {
     "name": "Twitter",
     "meta": "popular",
-    "url": "https://twitter.com/settings/your_twitter_data",
+    "url": "https://twitter.com/es/privacy",
     "difficulty": "medium"
 },
 {
     "name": "Universidad Complutense de Madrid",
-    "url": "https://www.ucm.es/como-ejercer-los-derechos",
+    "url": "https://www.ucm.es/datos-personales",
     "difficulty": "hard"
 },
 {
