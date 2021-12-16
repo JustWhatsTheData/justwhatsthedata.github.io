@@ -42,12 +42,14 @@
     {
     "name": "Alibaba",
     "url": "https://www.alibabagroup.com/en/global/privacy",
-    "difficulty": "hard"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info11", "info12", "info13", "info17", "info19", "info20", "info22", "info23"]
 },
     {
     "name": "Huawei",
     "url": "https://consumer.huawei.com/es/privacy/privacy-policy/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info11", "info13", "info15", "info16", "info17", "info20", "info22"]
 },
     {
     "name": "Taobao",
@@ -105,7 +107,8 @@
 {
     "name": "MSI",
     "url": "https://es.msi.com/page/privacy-policy",
-    "difficulty": "hard"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info10", "info15", "info19", "info20", "info22", "info23"]
 },
 {
     "name": "GearBeast",
@@ -121,7 +124,8 @@
     "name": "Twitter",
     "meta": "popular",
     "url": "https://twitter.com/es/privacy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info11", "info12", "info13", "info15", "info20", "info22", "info23"]
 },
 {
     "name": "Universidad Complutense de Madrid",
@@ -159,13 +163,15 @@
 {
     "name": "PornHub",
     "url": "https://pornhub.com/information/privacy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info20"]
 },
 {
     "name": "Facebook",
     "meta": "popular",
     "url": "https://www.facebook.com/help/1701730696756992",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": [""]
 },
 {
     "name": "Apple",
@@ -244,7 +250,7 @@
     "difficulty": "medium"
 },
 {
-    "name": "Mailfence",                                                                                                                                                                                                                                              
+    "name": "Mailfence",                                                                                           
     "url": "https://kb.mailfence.com/kb/how-to-export-data-from-mailfence-account/",
     "difficulty": "medium"
 },
@@ -257,5 +263,17 @@
     "name": "ZombieLink",
     "url": "https://zombiesrungame.com/zombielink/account",
     "difficulty": "easy"
+},
+{
+    "name": "Binance",
+    "url": "https://www.binance.com/en/privacy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7"]
+},
+{
+    "name": "Opera",
+    "url": "https://www.binance.com/en/privacy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7", "info8", "info15", "info22"]
 }
 ]
