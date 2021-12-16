@@ -3,15 +3,24 @@
     "name": "Google",
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
+<<<<<<< HEAD
     "difficulty": "hard",
     "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
+=======
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info3"]
+>>>>>>> origin
 },
     {
     "name": "Amazon",
     "meta": "popular",
     "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
+<<<<<<< HEAD
     "difficulty": "easy",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info13", "info14", "info16", "info17"]
+=======
+    "difficulty": "medium"
+>>>>>>> origin
 },
     {
     "name": "Reddit",
@@ -28,28 +37,30 @@
     {
     "name": "Aliexpress",
     "url": "https://servicehall.aliexpress.com/knowledgeDetail?hcAppId=1249&hcFromCode=6R84Ps3TR&hcSessionId=26-1249-9ca4ba81-6399-44b7-ba87-887625189916&spm=service_hall.24213053.category.569&knowledgeId=569&categoryId=21039549",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
     {
     "name": "Snapchat",
     "meta": "popular",
     "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
-    "difficulty": "easy"
+    "difficulty": "medium"
 },
     {
     "name": "1688",
     "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201703271337_94551.html?spm=a26go.7662368.0.0.dlnYtp",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
     {
     "name": "Alibaba",
     "url": "https://www.alibabagroup.com/en/global/privacy",
-    "difficulty": "hard"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info11", "info12", "info13", "info17", "info19", "info20", "info22", "info23"]
 },
     {
     "name": "Huawei",
     "url": "https://consumer.huawei.com/es/privacy/privacy-policy/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info11", "info13", "info15", "info16", "info17", "info20", "info22"]
 },
     {
     "name": "Taobao",
@@ -59,12 +70,12 @@
     {
     "name": "Steam",
     "url": "https://store.steampowered.com/privacy_agreement/?snr=1_44_44_",
-    "difficulty": "medium"
+    "difficulty": "easy"
 },
     {
     "name": "PcComponentes",
     "url": "https://www.pccomponentes.com/privacidad",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
     {
     "name": "Netflix",
@@ -87,59 +98,66 @@
     {
     "name": "Instagram",
     "url": "https://help.instagram.com/519522125107875",
-    "difficulty": "medium"
+    "difficulty": "hard"
 },
     {
     "name": "Linkedin",
     "url": "https://es.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy",
-    "difficulty": "easy"
+    "difficulty": "medium"
 },
     {
     "name": "Yahoo!",
     "url": "https://legal.yahoo.com/ie/es/yahoo/privacy/index.html",
-    "difficulty": "easy"
+    "difficulty": "hard"
 },
     {
     "name": "Microsoft",
     "url": "https://privacy.microsoft.com/es-es/privacystatement",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
 {
     "name": "MSI",
     "url": "https://es.msi.com/page/privacy-policy",
-    "difficulty": "hard"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info10", "info15", "info19", "info20", "info22", "info23"]
 },
 {
     "name": "GearBeast",
     "url": "https://es.gearbest.com/about/privacy-policy.html",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
-    "difficulty": "hard"
+<<<<<<< HEAD
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info5", "info6"]
+=======
+    "difficulty": "easy"
+>>>>>>> baf64a19cac65116de2ed4a6f97953f28d75b783
 },
 {
     "name": "Twitter",
     "meta": "popular",
     "url": "https://twitter.com/es/privacy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info11", "info12", "info13", "info15", "info20", "info22", "info23"]
 },
 {
     "name": "Universidad Complutense de Madrid",
     "url": "https://www.ucm.es/datos-personales",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
 {
     "name": "eBay",
     "url": "https://www.ebay.es/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260",
-    "difficulty": "easy"
+    "difficulty": "medium"
 },
 {
     "name": "Tinder",
     "meta": "popular",
     "url": "https://policies.tinder.com/privacy/intl/es-es",
-    "difficulty": "easy"
+    "difficulty": "medium"
 },
 {
     "name": "Wikipedia",
@@ -149,17 +167,18 @@
 {
     "name": "Wikimedia",
     "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
 {
     "name": "Board Game Geek",
     "url": "https://boardgamegeek.com/privacy",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "PornHub",
-    "url": "https://es.pornhub.com/information/privacy",
-    "difficulty": "medium"
+    "url": "https://pornhub.com/information/privacy",
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info20"]
 },
 {
     "name": "Facebook",
@@ -172,7 +191,7 @@
     "meta": "popular",
     "url": "https://www.apple.com/es/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
-    "difficulty": "easy"
+    "difficulty": "hard"
 },
 {
     "name": "ING",
@@ -192,47 +211,48 @@
 {
     "name": "Coinbase",
     "url": "https://www.coinbase.com/legal/privacy",
-    "difficulty": "easy"
+    "difficulty": "hard"
 },
 {
     "name": "Discord",
     "url": "https://discord.com/privacy",
-    "difficulty": "easy"
+    "difficulty": "hard"
 },
 {
     "name": "GOG",
     "url": "https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy?_ga=2.63717807.1620445900.1639679936-2031114438.1639679934&product=gog",
-    "difficulty": "hard"
+    "difficulty": "easy"
 },
 {
     "name": "Adobe",
     "url": "https://www.adobe.com/es/privacy.html",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/es-es/legal/privacy-notice/",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "Spacehey",
     "url": "https://spacehey.com/privacy",
-    "difficulty": "medium"
+    "difficulty": "easy"
 },
 {
     "name": "Badoo",
     "url": "https://badoo.com/es/privacy/",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "Zoom",
     "url": "https://explore.zoom.us/es/privacy/",
-    "difficulty": "hard"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info6", "info11", "info12", "info13", "info16", "info17", "info18"]
 },
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/es/legal/privacy-policy/",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "Tiktok",
@@ -245,18 +265,30 @@
     "difficulty": "medium"
 },
 {
-    "name": "Mailfence",                                                                                                                                                                                                                                              
+    "name": "Mailfence",                                                                                                
     "url": "https://mailfence.com/es/politica-de-privacidad.jsp",
-    "difficulty": "medium"
+    "difficulty": "easy"
 },
 {
     "name": "Craigslist",
     "url": "https://www.craigslist.org/about/privacy.policy",
-    "difficulty": "hard"
+    "difficulty": "medium"
 },
 {
     "name": "ZombieLink",
     "url": "https://support.sixtostart.com/hc/en-us/articles/360005935458-Zombies-Run-Terms-of-Use-and-Privacy-Policy",
     "difficulty": "easy"
+},
+{
+    "name": "Binance",
+    "url": "https://www.binance.com/en/privacy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7"]
+},
+{
+    "name": "Opera",
+    "url": "https://www.binance.com/en/privacy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7", "info8", "info15", "info22"]
 }
 ]
