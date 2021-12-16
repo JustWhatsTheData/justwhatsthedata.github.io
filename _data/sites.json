@@ -4,13 +4,14 @@
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
     "difficulty": "hard",
-    "gathered_data": ["info1", "info3"]
+    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
 },
     {
     "name": "Amazon",
     "meta": "popular",
     "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info13", "info14", "info16", "info17"]
 },
     {
     "name": "Reddit",
@@ -21,7 +22,8 @@
     {
     "name": "Telegram",
     "url": "https://telegram.org/privacy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info12", "info18"]
 },
     {
     "name": "Aliexpress",
