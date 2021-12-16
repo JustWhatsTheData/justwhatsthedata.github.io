@@ -9,69 +9,64 @@
     {
     "name": "Amazon",
     "meta": "popular",
-    "url": "https://www.amazon.com/gp/help/customer/display/",
+    "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
     "difficulty": "easy"
 },
     {
     "name": "Reddit",
     "meta": "popular",
-    "url": "https://www.reddit.com/settings/data-request",
+    "url": "https://www.redditinc.com/policies/privacy-policy",
     "difficulty": "easy"
 },
     {
     "name": "Telegram",
-    "url": "https://t.me/gdprbot",
+    "url": "https://telegram.org/privacy",
     "difficulty": "easy"
 },
     {
     "name": "Aliexpress",
-    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "url": "https://servicehall.aliexpress.com/knowledgeDetail?hcAppId=1249&hcFromCode=6R84Ps3TR&hcSessionId=26-1249-9ca4ba81-6399-44b7-ba87-887625189916&spm=service_hall.24213053.category.569&knowledgeId=569&categoryId=21039549",
     "difficulty": "hard"
 },
     {
     "name": "Snapchat",
     "meta": "popular",
-    "url": "https://support.snapchat.com/en-US/a/download-my-data",
+    "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
     "difficulty": "easy"
 },
     {
     "name": "1688",
-    "url": "https://1688.com",
+    "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201703271337_94551.html?spm=a26go.7662368.0.0.dlnYtp",
     "difficulty": "hard"
 },
     {
     "name": "Alibaba",
-    "url": "https://alibaba.com",
+    "url": "https://www.alibabagroup.com/en/global/privacy",
     "difficulty": "hard"
 },
     {
     "name": "Huawei",
-    "url": "https://consumer.huawei.com/en/support/content/en-us00746223/",
+    "url": "https://consumer.huawei.com/es/privacy/privacy-policy/",
     "difficulty": "medium"
 },
     {
     "name": "Taobao",
-    "url": "https://taobao.com",
-    "difficulty": "hard"
-},
-    {
-    "name": "Tmall",
-    "url": "https://tmall.com",
+    "url": "https://www.taobao.com/markets/damo/zuodao/legal-notice-and-privacy-policy",
     "difficulty": "hard"
 },
     {
     "name": "Steam",
-    "url": "https://steamcommunity.com/",
+    "url": "https://store.steampowered.com/privacy_agreement/?snr=1_44_44_",
     "difficulty": "medium"
 },
     {
     "name": "PcComponentes",
-    "url": "https://www.pccomponentes.com/",
+    "url": "https://www.pccomponentes.com/privacidad",
     "difficulty": "hard"
 },
     {
     "name": "Netflix",
-    "url": "https://www.netflix.com/",
+    "url": "https://help.netflix.com/legal/privacy",
     "difficulty": "medium"
 },
     {
