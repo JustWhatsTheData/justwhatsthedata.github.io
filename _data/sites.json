@@ -77,8 +77,9 @@
     {
     "name": "GitHub",
     "meta": "popular",
-    "url": "https://github.com/settings/admin",
-    "difficulty": "medium"
+    "url": "https://docs.github.com/en/github/site-policy/github-privacy-statement#what-information-github-collects",
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info10", "info13", "info15", "info20"]
 },
     {
     "name": "WhatsApp",
