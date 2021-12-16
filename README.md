@@ -1,4 +1,4 @@
-JustWhatsThedata
+JustWhatsTheData
 ============
 
 A directory of direct links for you to obtain your personal information from web services.
