@@ -254,6 +254,10 @@ main {
     text-decoration: none;
 }
 
+.tooltip-content.toggled {
+    width: 500px;
+}
+
 .site-block.easy .site-header {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
