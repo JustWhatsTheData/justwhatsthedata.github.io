@@ -3,24 +3,15 @@
     "name": "Google",
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
-<<<<<<< HEAD
-    "difficulty": "hard",
-    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
-=======
     "difficulty": "medium",
-    "gathered_data": ["info1", "info3"]
->>>>>>> origin
+    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
 },
     {
     "name": "Amazon",
     "meta": "popular",
     "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
-<<<<<<< HEAD
-    "difficulty": "easy",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info13", "info14", "info16", "info17"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
     {
     "name": "Reddit",
@@ -43,22 +34,14 @@
     "name": "Snapchat",
     "meta": "popular",
     "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
-<<<<<<< HEAD
-    "difficulty": "easy",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info6", "info8", "info11", "info12", "info13", "info15", "info17", "info18", "info21", "info22"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
     {
     "name": "1688",
     "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201703271337_94551.html?spm=a26go.7662368.0.0.dlnYtp",
-<<<<<<< HEAD
-    "difficulty": "hard",
+    "difficulty": "easy",
     "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info17"]
-=======
-    "difficulty": "easy"
->>>>>>> origin
 },
     {
     "name": "Alibaba",
@@ -139,12 +122,8 @@
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
-<<<<<<< HEAD
-    "difficulty": "hard",
+    "difficulty": "easy",
     "gathered_data": ["info1", "info5", "info6"]
-=======
-    "difficulty": "easy"
->>>>>>> baf64a19cac65116de2ed4a6f97953f28d75b783
 },
 {
     "name": "Twitter",
@@ -167,12 +146,8 @@
     "name": "Tinder",
     "meta": "popular",
     "url": "https://policies.tinder.com/privacy/intl/es-es",
-<<<<<<< HEAD
-    "difficulty": "easy",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info6", "info10", "info12", "info13", "info14", "info15", "info16", "info17", "info18"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
 {
     "name": "Wikipedia",
@@ -187,12 +162,8 @@
 {
     "name": "Board Game Geek",
     "url": "https://boardgamegeek.com/privacy",
-<<<<<<< HEAD
-    "difficulty": "hard",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info13", "info14", "info17", "info22"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
 {
     "name": "PornHub",
@@ -211,12 +182,8 @@
     "meta": "popular",
     "url": "https://www.apple.com/es/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
-<<<<<<< HEAD
-    "difficulty": "easy",
+    "difficulty": "hard",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info21", "info22"]
-=======
-    "difficulty": "hard"
->>>>>>> origin
 },
 {
     "name": "ING",
@@ -277,12 +244,8 @@
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/es/legal/privacy-policy/",
-<<<<<<< HEAD
-    "difficulty": "hard",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info13", "info14", "info15", "info16", "info17", "info22"]
-=======
-    "difficulty": "medium"
->>>>>>> origin
 },
 {
     "name": "Tiktok",
