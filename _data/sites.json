@@ -17,7 +17,8 @@
     "name": "Reddit",
     "meta": "popular",
     "url": "https://www.redditinc.com/policies/privacy-policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info10", "info11", "info12", "info13", "info20", "info23"]
 },
     {
     "name": "Telegram",
@@ -145,7 +146,8 @@
 {
     "name": "Universidad Complutense de Madrid",
     "url": "https://www.ucm.es/datos-personales",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7", "info11"]
 },
 {
     "name": "eBay",
@@ -163,12 +165,14 @@
 {
     "name": "Wikipedia",
     "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info19", "info23"]
 },
 {
     "name": "Wikimedia",
     "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info19"]
 },
 {
     "name": "Board Game Geek",
@@ -223,7 +227,8 @@
 {
     "name": "Discord",
     "url": "https://discord.com/privacy",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9", "info10", "info12", "info13", "info15", "info16", "info17", "info18", "info19", "info21"]
 },
 {
     "name": "GOG",
