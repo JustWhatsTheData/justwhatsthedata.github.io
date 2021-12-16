@@ -37,7 +37,8 @@
     {
     "name": "1688",
     "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201703271337_94551.html?spm=a26go.7662368.0.0.dlnYtp",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info17"]
 },
     {
     "name": "Alibaba",
@@ -175,7 +176,8 @@
     "meta": "popular",
     "url": "https://www.apple.com/es/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": [""]
 },
 {
     "name": "ING",
