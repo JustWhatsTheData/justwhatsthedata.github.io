@@ -21,14 +21,16 @@ module ExitCodes
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
-SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
+SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "datos_recogidos_en"]
 SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits", "footerlicense",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
                         "guidemedium", "hideinfo", "link_jdm", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
                         "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "translate","twitter", "whatisthis",
-                        "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
+                        "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4","basica", "ubicacion", "contenido_chats",
+						"info1","info2","info3","info4","info5","info6","info7","info8","info9","info10","info11","info12","info13","info14",
+						"info15","info16","info17","info18","info19","info20","info21","info22","info23"]
 
 def get_supported_languages()
     return translation_files = Dir.children('_data/trans/').map { |f| f.delete_suffix('.json') }

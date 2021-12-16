@@ -39,14 +39,15 @@
                 {% capture lang_notes %}notes_{{ page.short }}{% endcapture %}
                 {% if entry.notes or entry[lang_notes] %}
                     <div class="tooltip-content">
-                        {% if entry[lang_notes] %}
-                            {{ entry[lang_notes] }}
+					<ul>
+                        {% if entry.datos_recogidos_en%}
+							{% for priv in entry.datos_recogidos_en %}
+								<li>{{ site.data.trans[page.lang][priv] }}</li>
+							{% endfor %}
                         {% else %}
                             {{ entry.notes }}
                         {% endif %}
-                        {% if entry.email %}
-                            <br><a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
-                        {% endif %}
+					</ul>
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">
                         <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
