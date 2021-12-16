@@ -17,8 +17,7 @@
     "name": "Reddit",
     "meta": "popular",
     "url": "https://www.redditinc.com/policies/privacy-policy",
-    "difficulty": "easy",
-    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info10", "info11", "info12", "info13", "info20", "info23"]
+    "difficulty": "easy"
 },
     {
     "name": "Telegram",
@@ -35,12 +34,14 @@
     "name": "Snapchat",
     "meta": "popular",
     "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info8", "info11", "info12", "info13", "info15", "info17", "info18", "info21", "info22"]
 },
     {
     "name": "1688",
     "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_b2b/suit_bu1_b2b201703271337_94551.html?spm=a26go.7662368.0.0.dlnYtp",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info17"]
 },
     {
     "name": "Alibaba",
@@ -121,7 +122,11 @@
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/pdf/CCGG-Click-to-Call-YOIGO.pdf",
+<<<<<<< HEAD
+    "difficulty": "hard",
+=======
     "difficulty": "easy",
+>>>>>>> d33442b7525803570b971cd8ba910cf6bff3a513
     "gathered_data": ["info1", "info5", "info6"]
 },
 {
@@ -134,7 +139,8 @@
 {
     "name": "Universidad Complutense de Madrid",
     "url": "https://www.ucm.es/datos-personales",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info7", "info11"]
 },
 {
     "name": "eBay",
@@ -145,22 +151,26 @@
     "name": "Tinder",
     "meta": "popular",
     "url": "https://policies.tinder.com/privacy/intl/es-es",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info10", "info12", "info13", "info14", "info15", "info16", "info17", "info18"]
 },
 {
     "name": "Wikipedia",
     "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info19", "info23"]
 },
 {
     "name": "Wikimedia",
     "url": "https://foundation.wikimedia.org/wiki/Privacy_policy",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info19"]
 },
 {
     "name": "Board Game Geek",
     "url": "https://boardgamegeek.com/privacy",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info13", "info14", "info17", "info22"]
 },
 {
     "name": "PornHub",
@@ -179,7 +189,8 @@
     "meta": "popular",
     "url": "https://www.apple.com/es/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info21", "info22"]
 },
 {
     "name": "ING",
@@ -204,8 +215,7 @@
 {
     "name": "Discord",
     "url": "https://discord.com/privacy",
-    "difficulty": "hard",
-    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9", "info10", "info12", "info13", "info15", "info16", "info17", "info18", "info19", "info21"]
+    "difficulty": "hard"
 },
 {
     "name": "GOG",
@@ -241,7 +251,8 @@
 {
     "name": "Spotify",
     "url": "https://www.spotify.com/es/legal/privacy-policy/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info13", "info14", "info15", "info16", "info17", "info22"]
 },
 {
     "name": "Tiktok",
