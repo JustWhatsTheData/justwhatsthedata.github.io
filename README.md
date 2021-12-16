@@ -1,4 +1,4 @@
-JustWhatsTheData
+JustGetMyData
 ============
 
 A directory of direct links for you to obtain your personal information from web services.
@@ -22,7 +22,7 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 - Clone the repository
 
   ```
-  git clone https://github.com/justwhatsthedata/jwtd.git
+  git clone https://github.com/justgetmydata/jgmd.git
   ```
 
 - Install dependencies
