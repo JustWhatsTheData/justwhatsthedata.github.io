@@ -46,7 +46,7 @@
         {% assign sl = page.lang | split: "-" %}   
         <a class="button jdm" href="https://justgetmydata.com{%if page.lang != 'en-GB'%}/{{sl[0]}}{% endif %} "> {{site.data.trans[page.lang].link_jdm }}</a>
         <a class="button" href="https://github.com/JustWhatsTheData/justwhatsthedata.github.io">{{site.data.trans[page.lang].contribute}}</a>
-        <a class="button" href="https://crowdin.com/project/jgmd">{{site.data.trans[page.lang].translate}}</a>
+        <a class="button" href="https://crowdin.com/project/justwhatsthedata">{{site.data.trans[page.lang].translate}}</a>
         <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' }}+https%3A%2F%2Fjustwhatsthedata.github.io%2F">{{ site.data.trans.[page.lang].twitter }}</a>
     </p>
 </header>
