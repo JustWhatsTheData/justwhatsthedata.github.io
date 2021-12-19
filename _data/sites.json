@@ -186,7 +186,8 @@
     "name": "Facebook",
     "meta": "popular",
     "url": "https://es-es.facebook.com/privacy/explanation",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18", "info19", "info20", "info21", "info22", "info23"]
 },
 {
     "name": "Apple",
