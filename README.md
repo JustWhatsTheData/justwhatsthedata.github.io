@@ -4,7 +4,6 @@ JustWhatsTheData
 A directory of direct links for you to obtain your personal information from web services.
 This is a fork of [Just Get My Data](https://justgetmydata.com/)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3b1d799740f64a85a5616951ef1d5ed3)](https://www.codacy.com/gh/justgetmydata/jgmd/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=justgetmydata/jgmd&amp;utm_campaign=Badge_Grade)
 [![Crowdin](https://badges.crowdin.net/justwhatsthedata/localized.svg)](https://crowdin.com/project/justwhatsthedata)
 
 ## Building Locally
