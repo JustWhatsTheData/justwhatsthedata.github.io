@@ -86,7 +86,6 @@ DEPENDENCIES
   ffi (>= 1.13.1)
   html-proofer (>= 3.16.0)
   jekyll (= 4.1.1)
-  jekyll-analytics
 
 BUNDLED WITH
    2.2.32
