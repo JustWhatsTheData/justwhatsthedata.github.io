@@ -57,11 +57,7 @@
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info11", "info13", "info15", "info16", "info17", "info20", "info22"]
 },
-    {
-    "name": "Taobao",
-    "url": "https://www.taobao.com/markets/damo/zuodao/legal-notice-and-privacy-policy",
-    "difficulty": "hard"
-},
+
     {
     "name": "Steam",
     "url": "https://store.steampowered.com/privacy_agreement/?snr=1_44_44_",
@@ -245,7 +241,8 @@
 {
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/es-es/legal/privacy-notice/",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info16", "info19", "info21"]
 },
 {
     "name": "Spacehey",
@@ -278,11 +275,6 @@
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info14", "info15", "info18"]
 },
 {
-    "name": "Mozilla",
-    "url": "https://www.mozilla.org/es-ES/privacy/",
-    "difficulty": "medium"
-},
-{
     "name": "Mailfence",                                                                                                
     "url": "https://mailfence.com/es/politica-de-privacidad.jsp",
     "difficulty": "easy",
@@ -293,11 +285,6 @@
     "url": "https://www.craigslist.org/about/privacy.policy",
     "difficulty": "medium",
     "gathered_data": ["info11", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13"]
-},
-{
-    "name": "ZombieLink",
-    "url": "https://support.sixtostart.com/hc/en-us/articles/360005935458-Zombies-Run-Terms-of-Use-and-Privacy-Policy",
-    "difficulty": "easy"
 },
 {
     "name": "Binance",
