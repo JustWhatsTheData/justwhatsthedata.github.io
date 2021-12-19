@@ -22,7 +22,7 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 - Clone the repository
 
   ```
-  git clone https://github.com/JustWhatsTheData/justwhatsthedata.github.io.git
+  git clone https://github.com/justwhatsthedata/justwhatsthedata.github.io.git
   ```
 
 - Install dependencies
@@ -60,6 +60,6 @@ Country Flag Icons Copyright (c) 2017 Go Squared Ltd. https://www.gosquared.com/
 
 DevCenter.me Copyright (c) 2013 Steve Streza
 
-This is a detached fork of [Just Delete Me](https://justdeleteme.xyz/)
+This is a detached fork of [Just Get My Data](https://justgetmydata.com/)
 
 Created by Students of the [Complutense University of Madrid](https://www.ucm.es/) as a project for the Ethics, Legislation and Profession course. You can find more info [here](https://wikis.fdi.ucm.es/ELP/Trabajo:JustGetMyData).
