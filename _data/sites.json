@@ -112,7 +112,7 @@
     "name": "Microsoft",
     "url": "https://privacy.microsoft.com/es-es/privacystatement",
     "difficulty": "easy",
-    "gathered_data": ["info7", "info11", "info16", "info19", "info20"]
+    "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7", "info11","info14", "info16", "info18", "info19", "info20", "info21"]
 },
 {
     "name": "MSI",
