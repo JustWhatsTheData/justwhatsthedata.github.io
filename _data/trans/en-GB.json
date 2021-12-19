@@ -46,7 +46,7 @@
 	"info1": "Basic personal data (name, birthdate, e-mail, tlf. number...).",
 	"info2": "Address.",
 	"info3": "Susceptive personal data (tax identification, DNI, nationality, employment situation...).",
-	"info4": "Basic device info (IP address, browser, tipe of device...).",
+	"info4": "Basic device info (IP address, browser, type of device...).",
 	"info5": "Payment data.",
 	"info6": "Content analysis (analise data used or sent in their web/app).",
 	"info7": "Browsing data and use of their web/app (pages and links visited, games...).",
