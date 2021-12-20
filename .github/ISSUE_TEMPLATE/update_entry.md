@@ -15,7 +15,7 @@ assignees: ''
 
 - `name`: <!-- name -->
 - `url`: <!-- url -->
-- `data`: <!-- -->
+- `data`: <!--Put a 'X' in between the square brackets that apply-->
     - [ ] `info1`: Basic personal data (name, birthdate, e-mail, tlf. number...)
     - [ ] `info2`: Address
     - [ ] `info3`: Susceptive personal data (tax identification, DNI, nationality, employment situation...)
