@@ -1,6 +1,6 @@
 ---
 name: New Entry
-about: Tell about a new app, service or website that you found out about the deletion process
+about: Tell about a new app, service or website that you found out, and about their privacy policy
 title: ''
 labels: 'new_entry'
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Backstory
-<!-- Tell a bit about how you approached the deletion request and how it went -->
+<!-- Tell a bit about how you approached the privacy policy -->
 
 # Data
 <!-- Fill in the fields below, delete any optional ones that do not apply or that you don't have the information -->
