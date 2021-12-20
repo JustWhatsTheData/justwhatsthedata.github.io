@@ -16,7 +16,7 @@ assignees: ''
 - `name`: <!-- The name of the web or service -->
 - `url`: <!-- The url of the Privacy Policy page -->
 - `url_CODE`: <!-- *(optional)* Use the language `CODE` as suffix of the url field to provide language-specific deletion codes, shown on the respective language page -->
-- `data`: <!-- -->
+- `data`: <!--Put a 'X' in between the square brackets that apply-->
     - [ ] `info1`: Basic personal data (name, birthdate, e-mail, tlf. number...)
     - [ ] `info2`: Address
     - [ ] `info3`: Susceptive personal data (tax identification, DNI, nationality, employment situation...)
@@ -41,4 +41,3 @@ assignees: ''
     - [ ] `info22`: Posts on social medias
     - [ ] `info23`: Web reference
 - `level`: <!-- low (<=7) medium (>7, <=14) lots (>14) -->
-- `notes`: <!-- *(optional)* Notes will be shown when someone hovers on that service, they include additional information you might need to delete your account -->
