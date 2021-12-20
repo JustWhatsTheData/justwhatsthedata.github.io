@@ -15,7 +15,7 @@ assignees: ''
 
 - `name`: <!-- name -->
 - `url`: <!-- url -->
-- `data`: <!--Put a 'X' in between the square brackets that apply-->
+- `data`: <!--Put a 'X' in between the square brackets that you want to be added-->
     - [ ] `info1`: Basic personal data (name, birthdate, e-mail, tlf. number...)
     - [ ] `info2`: Address
     - [ ] `info3`: Susceptive personal data (tax identification, DNI, nationality, employment situation...)
@@ -40,3 +40,4 @@ assignees: ''
     - [ ] `info22`: Posts on social medias
     - [ ] `info23`: Web reference
 - `notes`: <!-- Notes -->
+- `quote`: <!-- *(optional)* You can speed up the process by telling us where they admit to collect that information -->
