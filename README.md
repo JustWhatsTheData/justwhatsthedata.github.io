@@ -61,4 +61,4 @@ DevCenter.me Copyright (c) 2013 Steve Streza
 
 This is a detached fork of [Just Get My Data](https://justgetmydata.com/)
 
-Created by Students of the [Complutense University of Madrid](https://www.ucm.es/) as a project for the Ethics, Legislation and Profession course.
+Created by Students of the [Complutense University of Madrid](https://www.ucm.es/) as a project for the Ethics, Legislation and Profession course. You can find more info [here](http://wikis.fdi.ucm.es/ELP/Trabajo:JustWhatsTheData).
