@@ -53,8 +53,7 @@ nav {
 .dropdown .it-IT a,    .it-IT a    { background-image: url(../icons/flags/it-IT16.png); }
 .dropdown .pl-PL a,    .pl-PL a    { background-image: url(../icons/flags/pl-PL16.png); }
 .dropdown .ja-JP a,    .pl-PL a    { background-image: url(../icons/flags/ja-JP16.png); }
-.dropdown .ru-RU a,    .pl-PL a    { background-image: url(../icons/flags/ja-JP16.png); }
-.dropdown .ru-RU a,    .pl-PL a    { background-image: url(../icons/flags/ja-JP16.png); }
+.dropdown .ru-RU a,    .pl-PL a    { background-image: url(../icons/flags/ru-RU16.png); }
 
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
@@ -70,7 +69,7 @@ nav {
 #it-IT    { background-image: url(../icons/flags/it-IT24.png); }
 #pl-PL    { background-image: url(../icons/flags/pl-PL24.png); }
 #ja-JP    { background-image: url(../icons/flags/ja-JP24.png); }
-#ru-RU    { background-image: url(../icons/flags/ja-JP24.png); }
+#ru-RU    { background-image: url(../icons/flags/ru-RU24.png); }
 
 nav a {
     color: black;
