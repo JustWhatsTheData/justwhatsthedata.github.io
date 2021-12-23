@@ -3,7 +3,7 @@
     "name": "Google",
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
-    "difficulty": "impossible",
+    "difficulty": "hard",
     "gathered_data": ["info1", "info4", "info5", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info20", "info21", "info23"]
 },
     {
