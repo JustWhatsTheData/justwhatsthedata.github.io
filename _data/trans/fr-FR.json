@@ -18,7 +18,7 @@
     "footerlicense": "Ce travail est sous licence Creative Commons Attribution 4.0 International License.",
     "guide": "Tutoriel",
     "guideeasy": "Ils recueillent peu de données",
-    "guideexplanations": "Les liens ci-dessus sont codés en couleur pour indiquer la quantité de données collectées par ces entreprises :",
+    "guideexplanations": "Les liens ci-dessus sont codés en couleur pour indiquer la quantité de données collectées par ces entreprises. Note : nous mesurons la quantité de données par la quantité de types de données récupérées, et non par les données elles-mêmes. En outre, le label ambigu (noir) fait référence aux entreprises dont les pages de politique sont difficiles à lire/comprendre, indépendamment de la quantité de données collectées :",
     "guidehard": "Ils recueillent beaucoup de données",
     "guideimpossible": "La politique de confidentialité est ambiguë",
     "guidemedium": "Ils recueillent des données",

@@ -18,7 +18,7 @@
     "footerlicense": "Ta praca jest licencjonowana na licencji Creative Commons Attribution 4.0 International License.",
     "guide": "Przewodnik",
     "guideeasy": "Zbierają mało danych",
-    "guideexplanations": "Powyższe linki są oznaczone kolorem w celu wskazania liczby danych zgromadzonych przez te spółki:",
+    "guideexplanations": "Powyższe linki są oznaczone kolorem w celu wskazania liczby danych zgromadzonych przez te spółki. Uwaga: mierzymy ilość danych poprzez ilość typów danych, a nie samych danych. Ponadto, niejednoznaczna (czarna) etykieta odnosi się do tych firm, których strony z zasadami są trudne do odczytania/zrozumienia, niezależnie od ilości zebranych danych :",
     "guidehard": "Zbierają wiele danych",
     "guideimpossible": "Polityka prywatności jest niejednoznaczna",
     "guidemedium": "Zbierają jakieś dane",

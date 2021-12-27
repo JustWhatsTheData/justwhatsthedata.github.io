@@ -18,7 +18,7 @@
     "footerlicense": "Este trabalho está licenciado sob uma licença internacional Creative Commons.",
     "guide": "Guia",
     "guideeasy": "Eles coletam pequenos dados",
-    "guideexplanations": "Os links acima são codificados com cores para indicar a quantidade de dados coletados por essas empresas:",
+    "guideexplanations": "Os links acima são codificados com cores para indicar a quantidade de dados coletados por essas empresas. Nota: medimos a quantidade de dados pela quantidade de tipos de dados recuperados, não os dados em si, além disso, o rótulo ambíguo (preto) se refere às empresas cujas páginas de políticas são difíceis de ler/compreender, independentemente da quantidade de dados coletados :",
     "guidehard": "Eles coletam muitos dados",
     "guideimpossible": "A política de privacidade é ambígua",
     "guidemedium": "Eles coletam alguns dados",
