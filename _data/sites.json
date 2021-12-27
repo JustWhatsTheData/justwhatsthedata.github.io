@@ -3,13 +3,13 @@
     "name": "Google",
     "meta": "popular",
     "url": "https://policies.google.com/privacy",
-    "difficulty": "medium",
-    "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info16", "info19", "info20", "info21", "info23"]
+    "difficulty": "hard",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info7", "info8", "info9", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info20", "info21", "info23"]
 },
     {
     "name": "Amazon",
     "meta": "popular",
-    "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info13", "info14", "info16", "info17"]
 },
@@ -35,7 +35,7 @@
     {
     "name": "Snapchat",
     "meta": "popular",
-    "url": "https://www.snap.com/es-ES/privacy/privacy-policy/",
+    "url": "https://www.snap.com/en-GB/privacy/privacy-policy/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info6", "info8", "info11", "info12", "info13", "info15", "info17", "info18", "info21", "info22"]
 },
@@ -53,7 +53,7 @@
 },
     {
     "name": "Huawei",
-    "url": "https://consumer.huawei.com/es/privacy/privacy-policy/",
+    "url": "https://consumer.huawei.com/en/privacy/privacy-policy/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info11", "info13", "info15", "info16", "info17", "info20", "info22"]
 },
@@ -92,37 +92,37 @@
 },
     {
     "name": "Instagram",
-    "url": "https://help.instagram.com/519522125107875",
+    "url": "https://help.instagram.com/help/instagram/519522125107875/?locale=en_GB",
     "difficulty": "impossible",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info15", "info16", "info17", "info19", "info21", "info22"]
 },
     {
     "name": "Linkedin",
-    "url": "https://es.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy",
+    "url": "https://www.linkedin.com/legal/privacy-policy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info3", "info4", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18"]
 },
     {
     "name": "Yahoo!",
-    "url": "https://legal.yahoo.com/ie/es/yahoo/privacy/index.html",
+    "url": "https://legal.yahoo.com/ie/en/yahoo/privacy/index.html",
     "difficulty": "hard",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9", "info10", "info11", "info13", "info15", "info16", "info17", "info20"]
 },
     {
     "name": "Microsoft",
-    "url": "https://privacy.microsoft.com/es-es/privacystatement",
+    "url": "https://privacy.microsoft.com/en-gb/privacystatement",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7", "info11","info14", "info16", "info18", "info19", "info20", "info21"]
 },
 {
     "name": "MSI",
-    "url": "https://es.msi.com/page/privacy-policy",
+    "url": "https://msi.com/page/privacy-policy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info10", "info15", "info19", "info20", "info22", "info23"]
 },
     {
     "name": "GearBeast",
-    "url": "https://es.gearbest.com/about/privacy-policy.html",
+    "url": "https://gearbest.com/about/privacy-policy.html",
     "difficulty": "easy",
     "gathered_data": ["info1", "info4", "info7"]
 },
@@ -135,7 +135,7 @@
     {
     "name": "Twitter",
     "meta": "popular",
-    "url": "https://twitter.com/es/privacy",
+    "url": "https://twitter.com/en/privacy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info6", "info7", "info8", "info11", "info12", "info13", "info15", "info20", "info22", "info23"]
 },
@@ -147,14 +147,14 @@
 },
     {
     "name": "eBay",
-    "url": "https://www.ebay.es/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260",
+    "url": "https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info7", "info8", "info11", "info14", "info15"]
 },
     {
     "name": "Tinder",
     "meta": "popular",
-    "url": "https://policies.tinder.com/privacy/intl/es-es",
+    "url": "https://policies.tinder.com/privacy/intl/en",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info6", "info10", "info12", "info13", "info14", "info15", "info16", "info17", "info18"]
 },
@@ -185,33 +185,33 @@
     {
     "name": "Facebook",
     "meta": "popular",
-    "url": "https://es-es.facebook.com/privacy/explanation",
+    "url": "https://facebook.com/privacy/explanation",
     "difficulty": "impossible",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18", "info19", "info20", "info21", "info22", "info23"]
 },
     {
     "name": "Apple",
     "meta": "popular",
-    "url": "https://www.apple.com/es/legal/privacy/",
+    "url": "https://www.apple.com/legal/privacy/",
     "url_es": "https://www.apple.com/es/legal/privacy/es/",
     "difficulty": "hard",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19", "info21", "info22"]
 },
     {
     "name": "ING",
-    "url": "https://www.ing.es/privacidad-ing",
+    "url": "https://www.ing.com/Privacy-Statement.htm",
     "difficulty": "hard",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info6", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info16", "info17", "info18", "info19"]
 },
     {
     "name": "BBVA",
-    "url": "https://protecciondedatos.bbva.es/",
+    "url": "https://www.bbva.com/en/personal-data-protection-policy/",
     "difficulty": "easy",
     "gathered_data": ["info1", "info2", "info3", "info4", "info5", "info10", "info14"]
 },
     {
     "name": "Booking",
-    "url": "https://www.booking.com/content/privacy.es.html?aid=376371;label=es-JCB2UqznXtCO_RDP_nj5CAS267778198072%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9061040%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ye8F2ouj63ytkBtrYs5TAfs;sid=33f2ed9ed5b8bf21fe3dc7c3b97bb678",
+    "url": "https://www.booking.com/content/privacy.en.html?aid=376371;label=es-JCB2UqznXtCO_RDP_nj5CAS267778198072%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9061040%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ye8F2ouj63ytkBtrYs5TAfs;sid=33f2ed9ed5b8bf21fe3dc7c3b97bb678",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info12", "info13"]
 },
@@ -235,13 +235,13 @@
 },
     {
     "name": "Adobe",
-    "url": "https://www.adobe.com/es/privacy.html",
+    "url": "https://www.adobe.com/privacy.html",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info9"]
 },
     {
     "name": "Twitch",
-    "url": "https://www.twitch.tv/p/es-es/legal/privacy-notice/",
+    "url": "https://www.twitch.tv/p/en/legal/privacy-notice/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info16", "info19", "info21"]
 },
@@ -253,31 +253,31 @@
 },
     {
     "name": "Badoo",
-    "url": "https://badoo.com/es/privacy/",
+    "url": "https://badoo.com/privacy/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info7", "info8", "info11", "info12", "info13", "info14", "info15", "info17", "info18", "info19"]
 },
     {
     "name": "Zoom",
-    "url": "https://explore.zoom.us/es/privacy/",
+    "url": "https://explore.zoom.us/privacy/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info6", "info11", "info12", "info13", "info16", "info17", "info18"]
 },
     {
     "name": "Spotify",
-    "url": "https://www.spotify.com/es/legal/privacy-policy/",
+    "url": "https://www.spotify.com/legal/privacy-policy/",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info8", "info10", "info13", "info14", "info15", "info16", "info17", "info22"]
 },
     {
     "name": "Tiktok",
-    "url": "https://www.tiktok.com/legal/privacy-policy-eea?lang=es",
+    "url": "https://www.tiktok.com/legal/privacy-policy-eea",
     "difficulty": "medium",
     "gathered_data": ["info1", "info2", "info4", "info5", "info6", "info7", "info8", "info10", "info12", "info13", "info14", "info15", "info18"]
 },
 {
     "name": "Mailfence",                                                                                                
-    "url": "https://mailfence.com/es/politica-de-privacidad.jsp",
+    "url": "https://mailfence.com/en/privacy.jsp",
     "difficulty": "easy",
     "gathered_data": ["info1", "info4", "info5", "info10", "info12"]
 },
@@ -301,7 +301,7 @@
 },
     {
     "name": "Pinterest",
-    "url": "https://policy.pinterest.com/es/privacy-policy",
+    "url": "https://policy.pinterest.com/en/privacy-policy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info10", "info11", "info12", "info13", "info14", "info15", "info19", "info21", "info22"]
 }

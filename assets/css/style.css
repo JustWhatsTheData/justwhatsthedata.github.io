@@ -42,6 +42,7 @@ nav {
 
 .dropdown .cs-CZ a,    .cs-CZ a    { background-image: url(../icons/flags/cs-CZ16.png); }
 .dropdown .en-GB a,    .en-GB a    { background-image: url(../icons/flags/en-GB16.png); }
+.dropdown .gl-ES a,    .gl-ES a    { background-image: url(../icons/flags/gl-ES16.png); }
 .dropdown .es-ES a,    .es-ES a    { background-image: url(../icons/flags/es-ES16.png); }
 .dropdown .pt-BR a,    .pt-BR a    { background-image: url(../icons/flags/pt-BR16.png); }
 .dropdown .tr-TR a,    .tr-TR a    { background-image: url(../icons/flags/tr-TR16.png); }
@@ -51,11 +52,14 @@ nav {
 .dropdown .nl-NL a,    .nl-NL a    { background-image: url(../icons/flags/nl-NL16.png); }
 .dropdown .it-IT a,    .it-IT a    { background-image: url(../icons/flags/it-IT16.png); }
 .dropdown .pl-PL a,    .pl-PL a    { background-image: url(../icons/flags/pl-PL16.png); }
-.dropdown .ja-JP a,    .ja-JP a    { background-image: url(../icons/flags/ja-JP16.png); }
+.dropdown .ja-JP a,    .pl-PL a    { background-image: url(../icons/flags/ja-JP16.png); }
+.dropdown .ru-RU a,    .pl-PL a    { background-image: url(../icons/flags/ru-RU16.png); }
+
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
 #en-GB    { background-image: url(../icons/flags/en-GB24.png); }
 #es-ES    { background-image: url(../icons/flags/es-ES24.png); }
+#gl-ES    { background-image: url(../icons/flags/gl-ES24.png); }
 #pt-BR    { background-image: url(../icons/flags/pt-BR24.png); }
 #tr-TR    { background-image: url(../icons/flags/tr-TR24.png); }
 #de-DE    { background-image: url(../icons/flags/de-DE24.png); }
@@ -65,6 +69,7 @@ nav {
 #it-IT    { background-image: url(../icons/flags/it-IT24.png); }
 #pl-PL    { background-image: url(../icons/flags/pl-PL24.png); }
 #ja-JP    { background-image: url(../icons/flags/ja-JP24.png); }
+#ru-RU    { background-image: url(../icons/flags/ru-RU24.png); }
 
 nav a {
     color: black;
@@ -122,12 +127,12 @@ header h1 span {
 }
 
 .button:hover {
-    background: #004c99;
+    background: #8a0963;
     cursor: pointer;
 }
 
 .jdm.button:hover {
-    background: #AC4949;
+    background: #004c99;
 }
 
 .search {
