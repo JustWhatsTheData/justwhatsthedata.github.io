@@ -18,7 +18,7 @@
     "footerlicense": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
     "guide": "Guide",
     "guideeasy": "They collect little data",
-    "guideexplanations": "The links above are colour-coded to indicate the amount of data gathered by those companies:",
+    "guideexplanations": "The links above are colour-coded to indicate the amount of data gathered by those companies. Note: We meassure de quantity of data by taking account of the number of types of data recovered not the actual data itself, also, the ambiguos (black) tag refers to those companies which policies pages are hard to read/understand, independently of the amount of data gathered:",
     "guidehard": "They collect a lot of data",
     "guideimpossible": "The privacy policy is ambiguous",
     "guidemedium": "They collect some data",
