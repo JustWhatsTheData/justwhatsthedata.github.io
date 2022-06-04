@@ -110,6 +110,10 @@
             {% capture short_code %}{{x[0]}}{% endcapture %}
             {% if full_code == 'en-GB' %}
                 {% assign url = './' %}
+            {% elsif full_code == 'pt-BR' %}
+                {% assign url ='pt-BR' %}
+            {% elsif full_code == 'pt-PT' %}
+                {% assign url ='pt-PT' %}
             {% else %}
                 {% assign url = short_code %}
             {% endif %}
