@@ -1,14 +1,14 @@
 JustWhatsTheData
 ============
 
-A directory of direct links for you to obtain your personal information from web services.
-This is a fork of [Just Get My Data](https://justgetmydata.com/)
+A directory of information for you to acknowledge the amount of data that web services gather from you.
+This is a fork of [Just Get My Data](https://justgetmydata.com/), focusing on data collected by web services.
 
 [![Crowdin](https://badges.crowdin.net/justwhatsthedata/localized.svg)](https://crowdin.com/project/justwhatsthedata)
 
 ## Building Locally
 
-Just Get My Data is built using [Jekyll](https://jekyllrb.com/) and is linted and
+Just Whats The Data is built using [Jekyll](https://jekyllrb.com/) and is linted and
 validated using a mixture of Ruby and Node.js packages and scripts.
 
 **Dependencies:**
@@ -27,7 +27,7 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 - Install dependencies
 
   ```
-  cd jgmd
+  cd justwhatsthedata.github.io
   gem install bundler
   bundle install
   ```
@@ -42,7 +42,7 @@ Tests are run via the "cibuild" script, and can be run via `./script/cibuild`
 
 ## Contributing
 
-You can translate the main text of the page by contributing on [Crowdin](https://crowdin.com/project/jgmd)
+You can translate the main text of the page by contributing on [Crowdin](https://crowdin.com/project/justwhatsthedata)
 If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
 
 ## Misc
