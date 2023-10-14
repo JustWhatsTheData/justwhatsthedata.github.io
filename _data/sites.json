@@ -304,5 +304,11 @@
     "url": "https://policy.pinterest.com/en/privacy-policy",
     "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info6", "info7", "info8", "info10", "info11", "info12", "info13", "info14", "info15", "info19", "info21", "info22"]
+},
+{
+    "name": "Modrinth",
+    "url": "https://modrinth.com/legal/privacy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info8", "info15"]
 }
 ]
